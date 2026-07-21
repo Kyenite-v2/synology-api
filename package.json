@@ -1,5 +1,5 @@
 {
-  "name": "@Kyenite-v2/synology-api",
+  "name": "@kyenite/synology-api",
   "version": "0.1.4",
   "description": "synology api for nodejs",
   "main": "./lib/index.js",
