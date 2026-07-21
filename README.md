@@ -8,7 +8,7 @@
 ![NPM Version](https://img.shields.io/npm/v/%40fett%2Fsynology-api) ![NPM Downloads](https://img.shields.io/npm/dm/%40fett%2Fsynology-api) ![GitHub](https://img.shields.io/github/license/chrissong1994/synology-api) ![vitest](https://img.shields.io/badge/tested_with-vitest-brightgreen)
 
 📖 [kyenite README](./README_zh.md)
-🔎 [API Document ](https://chrissong1994.github.io/synology-api)
+🔎 [API Document ](https://Kyenite-v2.github.io/synology-api)
 
 Synology Api Javascript wrapper can be used in Browser、CLI or Nodejs to interact with Synology NAS.
 You can use domain or ip address, also supports Synology Quick Connect connect Synology server.

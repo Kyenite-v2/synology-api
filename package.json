@@ -1,6 +1,6 @@
 {
   "name": "@kyenite/synology-api",
-  "version": "0.1.4",
+  "version": "0.1.42",
   "description": "synology api for nodejs",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
