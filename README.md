@@ -7,7 +7,7 @@
 
 ![NPM Version](https://img.shields.io/npm/v/%40fett%2Fsynology-api) ![NPM Downloads](https://img.shields.io/npm/dm/%40fett%2Fsynology-api) ![GitHub](https://img.shields.io/github/license/chrissong1994/synology-api) ![vitest](https://img.shields.io/badge/tested_with-vitest-brightgreen)
 
-📖 [中文 README](./README_zh.md)
+📖 [kyenite README](./README_zh.md)
 🔎 [API Document ](https://chrissong1994.github.io/synology-api)
 
 Synology Api Javascript wrapper can be used in Browser、CLI or Nodejs to interact with Synology NAS.
@@ -17,7 +17,7 @@ All apis from [https://kb.synology.cn](https://kb.synology.cn/zh-cn/search?query
 ## Install
 
 ```
-npm install @fett/synology-api
+npm install @kyenite/synology-api
 ```
 
 ## Configuration
@@ -58,13 +58,13 @@ const synologyApi = new SynologyApi({
 ## Use In Browser or Node.js
 
 ```bash
-npm install @fett/synology-api
+npm install @kyenite/synology-api
 ```
 
 First you need to confirm that you can access across domains,for example in the React Native environment
 
 ```js
-import SynologyApi from '@fett/synology-api';
+import SynologyApi from '@kyenite/synology-api';
 
 const synologyApi = new SynologyApi(
   server: "https://192.168.1.1:5001", // or QuickConnectId
@@ -80,7 +80,7 @@ const info = await synologyApi.FileStation.getInfo();
 First install the package globally
 
 ```bash
-npm i -g @fett/synology-api
+npm i -g @kyenite/synology-api
 ```
 
 Then run cmd help message
@@ -125,4 +125,4 @@ syno fs getInfo --beautify # print file system info
 
 ## License
 
-[MIT](https://github.com/ChrisSong1994/synology-api/blob/main/LICENSE)
+[MIT](https://github.com/Kyenite-v2/synology-api/blob/main/LICENSE)
