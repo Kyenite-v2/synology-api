@@ -27,12 +27,12 @@
     "access": "public"
   },
   "type": "module",
-  "author": "ChrisSong1994 <https://github.com/ChrisSong1994>",
+  "author": "Kyenite-v2 <https://github.com/Kyenite-v2>",
   "repository": {
     "type": "git",
-    "url": "git@github.com:ChrisSong1994/synology-api.git"
+    "url": "git@github.com:Kyenite-v2/synology-api.git"
   },
-  "homepage": "https://chrissong1994.github.io/synology-api",
+  "homepage": "https://Kyenite-v2.github.io/synology-api",
   "keywords": [
     "synology",
     "api",
